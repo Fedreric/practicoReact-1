@@ -11,7 +11,10 @@ Es simplemente mostrar el titulo "Hello World" en pantalla a través de un compo
 ```bash
 git clone https://github.com/Fedreric/practicoReact-1.git
 ```
->**EJECUTAR:** npm run dev 
+>**EJECUTAR:** 
+- npm install
+- npm run dev 
+- https://practicoreact-1-fede39i.netlify.app/
 
 ## Autor 👨‍💻
  Federico Luciano Ledesma [GitHub](https://github.com/Fedreric)
